@@ -1,0 +1,7 @@
+{
+  "name": "FinTech AI Chatbot",
+  "description": "A specialized AI assistant for Finance, Investment, and Taxation with RAG capabilities and ethical safeguards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
